@@ -1,4 +1,4 @@
-# 👨‍💻 Senior Data Engineer | Professional with a Broad Tech Stack
+# 👨‍💻 Senior Data Engineer
 
 Hi! My name is Alex, and I am a Senior Data Engineer with extensive experience in designing and optimizing high-load systems. 
 My expertise lies in building scalable data solutions and creating efficient ETL pipelines.
